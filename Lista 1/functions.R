@@ -1,4 +1,4 @@
-PrintGrafs = function(x)
+PrintGrafs = function(x, p)
 {
   
   # Define o nome do arquivo

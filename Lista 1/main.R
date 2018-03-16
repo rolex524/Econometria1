@@ -31,5 +31,5 @@ for(p in probs) {
   }
   
   # Plotagem do histograma
-  PrintGrafs(result)
+  PrintGrafs(result, p)
 }
