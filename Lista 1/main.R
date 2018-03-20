@@ -1,3 +1,12 @@
+# ***************************************************
+# Nome: Bruno Tebaldi de Queiroz Barbosa
+# COD: 174887
+# 
+# Disciplina: Econometria 1
+# Lista 1
+# TA: Luiz Fantozzi Alvarez
+# ***************************************************
+
 # Limpa as variaveis anteriores
 rm(list = ls())
 
