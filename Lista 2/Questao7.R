@@ -41,3 +41,7 @@ f = formula("k_obt_nasc ~ dyang_last12")
 mdl2 = rlm(formula = f, data = base_clima_datasus2010)
 
 summary(mdl2)
+
+mdl3 = lm("k_obt_nasc ~ dyang_last12 + temp_mean12", data = base_clima_datasus2010)
+summary(mdl3)
+
